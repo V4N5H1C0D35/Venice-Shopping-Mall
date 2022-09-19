@@ -1,0 +1,7 @@
+Vanshika:Jeans,Boiling Water Resistant Wardrobes,Sugar,
+xyz:Jeans,
+Aarushi:Jeans,Apple,Litchi,
+abc:Jeans,T-Shirt,
+Vanshika:Jeans,
+arushi:Jeans,
+Vanshika:Jeans,T-Shirt,Wooden Tables,Mango,Television,
